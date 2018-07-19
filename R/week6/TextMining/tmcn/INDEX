@@ -1,0 +1,33 @@
+GBK                     GBK character set
+NTUSD                   National Taiwan University Semantic Dictionary
+SIMTRA                  Dictionary of simplified and traditional
+                        Chinese
+catUTF8                 Print the UTF-8 codes of a string.
+createHashmapEnv        Create an environment for hash mapping.
+getCharset              Get the current encoding of the locale.
+getWordFreq             Get the word frequency data.frame.
+isBIG5                  Indicate whether the encoding of input string
+                        is BIG5.
+isGB18030               Indicate whether the encoding of input string
+                        is GB18030.
+isGB2312                Indicate whether the encoding of input string
+                        is GB2312.
+isGBK                   Indicate whether the encoding of input string
+                        is GBK.
+isUTF8                  Indicate whether the encoding of input string
+                        is UTF-8.
+revUTF8                 Revert UTF-8 string to Chinese character.
+setchs                  Set locale to Simplified Chinese.
+setcht                  Set locale to Simplified Chinese.
+stopwordsCN             Return Chinese stop words.
+strcap                  Mixed case capitalizing.
+strextract              Extract matched substrings by regular
+                        expression.
+strpad                  Pad a string to a specified length with a
+                        padding character.
+strstrip                Trim space of a string.
+tmcnTest                Run unit tests.
+toPinyin                Convert a chinese text to pinyin format.
+toTrad                  Convert a Chinese text from simplified to
+                        traditional characters and vice versa.
+toUTF8                  Convert encoding of Chinese string to UTF-8.
